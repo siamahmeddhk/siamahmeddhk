@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/7vG1vHk/github-banner.png" alt="Banner" width="100%">
+  <img src="https://i.ibb.co.com/bj6p8vtZ/Black-Modern-Personal-Linked-In-Banner-1.png" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Your Full Name</h1>

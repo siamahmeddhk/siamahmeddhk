@@ -3,8 +3,8 @@
   <img src="https://i.ibb.co.com/bj6p8vtZ/Black-Modern-Personal-Linked-In-Banner-1.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Your Full Name</h1>
-<h3 align="center">Frontend Developer | React Enthusiast | Aspiring Full-Stack</h3>
+<h1 align="center">Hi 👋, I'm Sharif Siam Ahmed</h1>
+<h3 align="center">Frontend Developer |  Aspiring Full-Stack</h3>
 
 ---
 
@@ -16,9 +16,8 @@ With knowledge of both frontend and a little backend, I strive to build complete
 ---
 
 ## 🚀 Current Activities
-- 🌱 I am exploring **Next.js**  
-- 💻 I’m working on a **Tourism Website** project  
-- 📚 Learning **MongoDB & Express.js** for backend integration  
+- 🌱 I am exploring new modern AI technology
+- 💻 I’m working on a mern project  
 - 🤝 Open to collaborating on web projects  
 
 ---
